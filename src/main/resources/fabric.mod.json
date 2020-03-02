@@ -13,7 +13,7 @@
     "sources": "https://github.com/gamma-delta/dowsing"
   },
 
-  "license": "MIT",
+  "license": "gpl-3.0",
   "icon": "assets/dowsing/icon.png",
 
   "environment": "*",
